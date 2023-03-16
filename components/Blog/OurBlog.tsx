@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import { Blog } from "../../../types/type";
+import { Blog } from "../../types/type";
 
 const OurBlog: React.FC<Blog> = (props: Blog) => {
   const { image, title, author, category, text, link } = props;

@@ -6,7 +6,7 @@ import Guide from "../../components/Top/Guide/Guide";
 import Advantages from "../../components/Top/Advantages/Advantages";
 import Collection from "../../components/Products/Collection/Collection";
 import Testimonial from "../../components/Top/Testimonial/Testimonial";
-import Blog from "../../components/Blog/Blog/Blog";
+import Blog from "../../components/Blog/Blog";
 import Community from "../../components/Products/Community/Community";
 
 const inter = Inter({ subsets: ["latin"] });

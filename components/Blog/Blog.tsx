@@ -1,6 +1,6 @@
 import React from "react";
 import OurBlog from "./OurBlog";
-import { blogs } from "../../../datas/data";
+import { blogs } from "../../datas/data";
 
 const Blog = () => {
   return (
